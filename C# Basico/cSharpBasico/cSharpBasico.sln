@@ -1,0 +1,114 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpBasico", "cSharpBasico.csproj", "{BBD9F90A-8A37-40B8-B4C9-011C05968FDB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Comentarios", "1. Comentarios", "{0CBCBDF9-FF91-41C9-94DF-F5CA47A7214E}"
+	ProjectSection(SolutionItems) = preProject
+		comentario.cs = comentario.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Tipos de Datos y Variables", "2. Tipos de Datos y Variables", "{700207B3-8F1C-4F9A-9FB2-D9C47E1673AC}"
+	ProjectSection(SolutionItems) = preProject
+		tipos.cs = tipos.cs
+		Variables.cs = Variables.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Arrays", "7. Arrays", "{BBE9888C-42AF-4216-AB59-FFAD49E79265}"
+	ProjectSection(SolutionItems) = preProject
+		Arrays.cs = Arrays.cs
+		..\Imagenes C# basico\estructura de un array.png = ..\Imagenes C# basico\estructura de un array.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Condicionales", "4. Condicionales", "{945383D7-B6C4-40A1-89CC-FF56EBCBFD02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Bucles o Loops", "5. Bucles o Loops", "{6E7499A2-B43A-4A92-8062-BFACC35E0FE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. IF", "1. IF", "{E69D3D3A-14B5-4979-84A0-4620B770683B}"
+	ProjectSection(SolutionItems) = preProject
+		if.cs = if.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. ELSE IF", "2. ELSE IF", "{CC883476-25CC-4409-B6E5-39A63B9CA2E9}"
+	ProjectSection(SolutionItems) = preProject
+		elseIf.cs = elseIf.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. SWITCH", "4. SWITCH", "{174253EA-FFC3-423F-9B99-CD14D25ABC51}"
+	ProjectSection(SolutionItems) = preProject
+		switch.cs = switch.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.practicas", "5.practicas", "{68C62CBB-70CD-485D-B04C-758BDE2D51AB}"
+	ProjectSection(SolutionItems) = preProject
+		practicaEstructuraControl.cs = practicaEstructuraControl.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. FOR", "3. FOR", "{7E983702-A0A5-438C-BCA0-DA6AB8275D9E}"
+	ProjectSection(SolutionItems) = preProject
+		FOR.CS = FOR.CS
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. WHILE", "1. WHILE", "{B892AA99-7222-4A4D-AC09-DCB3B3590399}"
+	ProjectSection(SolutionItems) = preProject
+		while.cs = while.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. DO-WHILE", "2. DO-WHILE", "{21AB8724-8BAD-4696-AAB8-5017EDAEE5E4}"
+	ProjectSection(SolutionItems) = preProject
+		doWhile.cs = doWhile.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. FOREACH", "4. FOREACH", "{E1BF9646-C705-48D0-8D1B-7877D590DA99}"
+	ProjectSection(SolutionItems) = preProject
+		foreach.cs = foreach.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Operadores", "3. Operadores", "{4CCF761A-5EA4-41C6-9E77-C2EFAD06D70C}"
+	ProjectSection(SolutionItems) = preProject
+		Operadores-Aritmeticos.cs = Operadores-Aritmeticos.cs
+		Operadores-Comparacion.cs = Operadores-Comparacion.cs
+		Operadores-Logicos.cs = Operadores-Logicos.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8. METODOS CLASE CONSOLE", "8. METODOS CLASE CONSOLE", "{77D88CA0-5C4D-44C0-9922-4706B2441C4A}"
+	ProjectSection(SolutionItems) = preProject
+		ReadLine.cs = ReadLine.cs
+		WriteLine.cs = WriteLine.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. ELSE", "3. ELSE", "{8D1C2141-BCEE-4D7E-A5E7-51E4F392FDAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Funciones", "6. Funciones", "{E0F6A641-0FE1-4D20-9AE2-C648D6D7423B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD9F90A-8A37-40B8-B4C9-011C05968FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD9F90A-8A37-40B8-B4C9-011C05968FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD9F90A-8A37-40B8-B4C9-011C05968FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD9F90A-8A37-40B8-B4C9-011C05968FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E69D3D3A-14B5-4979-84A0-4620B770683B} = {945383D7-B6C4-40A1-89CC-FF56EBCBFD02}
+		{CC883476-25CC-4409-B6E5-39A63B9CA2E9} = {945383D7-B6C4-40A1-89CC-FF56EBCBFD02}
+		{174253EA-FFC3-423F-9B99-CD14D25ABC51} = {945383D7-B6C4-40A1-89CC-FF56EBCBFD02}
+		{68C62CBB-70CD-485D-B04C-758BDE2D51AB} = {945383D7-B6C4-40A1-89CC-FF56EBCBFD02}
+		{7E983702-A0A5-438C-BCA0-DA6AB8275D9E} = {6E7499A2-B43A-4A92-8062-BFACC35E0FE4}
+		{B892AA99-7222-4A4D-AC09-DCB3B3590399} = {6E7499A2-B43A-4A92-8062-BFACC35E0FE4}
+		{21AB8724-8BAD-4696-AAB8-5017EDAEE5E4} = {6E7499A2-B43A-4A92-8062-BFACC35E0FE4}
+		{E1BF9646-C705-48D0-8D1B-7877D590DA99} = {6E7499A2-B43A-4A92-8062-BFACC35E0FE4}
+		{8D1C2141-BCEE-4D7E-A5E7-51E4F392FDAA} = {945383D7-B6C4-40A1-89CC-FF56EBCBFD02}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2A6C16C-9B8C-436C-A426-E90E3B01B958}
+	EndGlobalSection
+EndGlobal
